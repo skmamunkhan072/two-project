@@ -3,6 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+body {
+  background: #000000;
+  color: #fff;
+}
 .heading {
   text-align: center;
   font-size: 3rem;
