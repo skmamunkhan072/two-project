@@ -5,6 +5,7 @@ body {
 }
 .flx {
   display: flex;
+  flex-direction: row;
 }
 
 .peter-parkar-section {
@@ -43,7 +44,7 @@ body {
   margin-top: 10px;
 }
 .dream-big-section {
-  background-image: url(/images/dream-bg.png);
+  background-image: url(../images/dream-bg.png);
   background-repeat: no-repeat;
   background-position: right;
   background-position-y: 98%;
@@ -51,9 +52,8 @@ body {
 }
 .expreian-section {
   margin-top: 50px;
-  background-image: url(/images/exp-bg.png);
+  background-image: url(images/exp-bg.png);
   background-position-y: 74%;
-  z-index: 1;
   background-repeat: no-repeat;
 }
 .expreian-section h2 {
